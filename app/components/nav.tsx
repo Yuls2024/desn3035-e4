@@ -5,7 +5,7 @@ export default function Nav() {
     return <>
         <div className="col-3">
             <div className="list-group">
-                <Link href="h/" className="list-group-item list-group-item-action">
+                <Link href="/" className="list-group-item list-group-item-action">
                     Home
                 </Link>
                 <Link href="/about" className="list-group-item list-group-item-action">
